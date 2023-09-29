@@ -40,6 +40,6 @@ create table EMPLOYEE3 (empid NUMBER, empname VARCHAR(20), dept VARCHAR(10),sala
 select * from employee3;
 ```
 ## Output:
-![](Ex1.12.png)
+![](1.12.png)
 ## Result:
   Hence procedure has been created using PL/SQL.
